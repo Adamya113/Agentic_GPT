@@ -1,0 +1,8 @@
+duckduckgo-search==7.2.1
+ipython==8.31.0
+markdownify==0.14.1
+numpy==2.2.2
+opencv-python-headless==4.11.0.86
+pillow==11.1.0
+pytesseract==0.3.13
+smolagents==1.4.1
